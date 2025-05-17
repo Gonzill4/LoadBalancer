@@ -5,7 +5,7 @@ Cristóbal Camarena Hernández - A01642653 |
 Josué Galindo Gutiérrez - A01637983 |
 Gandhi Emmanuel Valdez Huerta - A01625738 |
 Gonzalo Calderon Gil Leyva - A01740008 |
-Roberto Castro Soto - A01640117 |  
+Roberto Castro Soto - A01640117 |
 Alma Paulina González Sandoval A01631256 
 
 # Objetivo
